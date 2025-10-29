@@ -1,0 +1,39 @@
+% Run Labels
+BasLothrRad
+BasDefNorad
+SMUGGLE (RT)
+SMUGGLE (noRT)
+RIGEL
+LYRA
+
+% Evo Data Files
+ISO
+ISO
+ISO
+ISO
+ISO
+ISO
+
+% Snapshots Directories (include final /)
+../../AREPO/Basalt/run/H17P/BasaltRad/out/
+../../AREPO/Basalt/run/H17P/BasaltNorad/out/
+../../AREPO/Basalt/run/H17P/BasaltRad/out-hsfe-mthr/
+../../AREPO/Basalt/run/H17P/BasaltNorad/out-hsfe-mthr/
+../../../shared/RIGEL/IZw18m1/
+../../../shared/Lyra/
+
+% Final Snapshot Numbers
+200
+200
+900
+900
+790
+1000
+
+% Snapshot Types (SINGLE or MULTIPLE)
+1
+1
+1
+1
+1
+8
